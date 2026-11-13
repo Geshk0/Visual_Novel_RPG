@@ -26,7 +26,6 @@
 Для запуска проекта на вашем компьютере должен быть установлен [Ren'Py SDK](https://www.renpy.org/latest.html).
 
 1. Склонируйте репозиторий:
-```bash
 git clone https://github.com/Geshk0/Visual_Novel_RPG.git
 
 2. Откройте Ren'Py Launcher (среда разработки движка).
